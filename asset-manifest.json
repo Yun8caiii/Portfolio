@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6c5f793b.css",
+    "main.js": "/Portfolio/static/js/main.9fbe118e.js",
+    "static/media/portfolio-1.jpg": "/Portfolio/static/media/portfolio-1.a5aec9edb20ce707c7ef.jpg",
+    "static/media/portfolio-6.jpg": "/Portfolio/static/media/portfolio-6.4ac0ebbfa2386d96d79a.jpg",
+    "static/media/portfolio-4.jpg": "/Portfolio/static/media/portfolio-4.f13f4091d480ec078173.jpg",
+    "static/media/portfolio-2.jpg": "/Portfolio/static/media/portfolio-2.f90ffc90aa904ad1f17d.jpg",
+    "static/media/portfolio-5.jpg": "/Portfolio/static/media/portfolio-5.c56ceaf8041afa4251c3.jpg",
+    "static/media/portfolio-3.jpg": "/Portfolio/static/media/portfolio-3.b0cc2e61d20342d5c225.jpg",
+    "static/media/2dmotherboard.png": "/Portfolio/static/media/2dmotherboard.80d47632309981a3f4d4.png",
+    "static/media/web-developer-intoBG.png": "/Portfolio/static/media/web-developer-intoBG.ad3005e33d48dc289af6.png",
+    "static/media/CompanyPlaceholder.png": "/Portfolio/static/media/CompanyPlaceholder.79bfd233db79aec439d7.png",
+    "static/media/appDevelopment.png": "/Portfolio/static/media/appDevelopment.46cc559cdfa18f765012.png",
+    "static/media/twitter.png": "/Portfolio/static/media/twitter.c6e48e60f856cb822273.png",
+    "static/media/websiteDevelopment.png": "/Portfolio/static/media/websiteDevelopment.dbcabff933f12fb35b8d.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.9a51ac314b6a88dce73f.png",
+    "static/media/linkedin.png": "/Portfolio/static/media/linkedin.f249b38224ca41a0b909.png",
+    "index.html": "/Portfolio/index.html",
+    "main.6c5f793b.css.map": "/Portfolio/static/css/main.6c5f793b.css.map",
+    "main.9fbe118e.js.map": "/Portfolio/static/js/main.9fbe118e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c5f793b.css",
+    "static/js/main.9fbe118e.js"
+  ]
+}
